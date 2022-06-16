@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35c8e18e.chunk.css",
+    "main.js": "/static/js/main.7fdd5a8c.chunk.js",
+    "main.js.map": "/static/js/main.7fdd5a8c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.152d5861.js",
+    "runtime-main.js.map": "/static/js/runtime-main.152d5861.js.map",
+    "static/js/2.8b6ab511.chunk.js": "/static/js/2.8b6ab511.chunk.js",
+    "static/js/2.8b6ab511.chunk.js.map": "/static/js/2.8b6ab511.chunk.js.map",
+    "static/js/3.ff48dc6b.chunk.js": "/static/js/3.ff48dc6b.chunk.js",
+    "static/js/3.ff48dc6b.chunk.js.map": "/static/js/3.ff48dc6b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.35c8e18e.chunk.css.map": "/static/css/main.35c8e18e.chunk.css.map",
+    "static/js/2.8b6ab511.chunk.js.LICENSE.txt": "/static/js/2.8b6ab511.chunk.js.LICENSE.txt",
+    "static/media/Galada.32d51f80.jpeg": "/static/media/Galada.32d51f80.jpeg",
+    "static/media/Group.2288f6e0.png": "/static/media/Group.2288f6e0.png",
+    "static/media/Group2.517699fd.png": "/static/media/Group2.517699fd.png",
+    "static/media/Sesha.684f56de.jpeg": "/static/media/Sesha.684f56de.jpeg",
+    "static/media/[Mockup] iPhone X.72f650c4.png": "/static/media/[Mockup] iPhone X.72f650c4.png",
+    "static/media/teamCards.css": "/static/media/aboutbgd.0017581f.jpg",
+    "static/media/aboutimg.5348b125.png": "/static/media/aboutimg.5348b125.png",
+    "static/media/aditya.9ddae86a.jpg": "/static/media/aditya.9ddae86a.jpg",
+    "static/media/akash.124feac3.jpg": "/static/media/akash.124feac3.jpg",
+    "static/media/apple-badge.e250c68b.svg": "/static/media/apple-badge.e250c68b.svg",
+    "static/media/google-play-badge.f902960a.png": "/static/media/google-play-badge.f902960a.png",
+    "static/media/harshith.68563169.jpg": "/static/media/harshith.68563169.jpg",
+    "static/media/illustration.a782aa43.png": "/static/media/illustration.a782aa43.png",
+    "static/media/manasa.e2b9b384.jpg": "/static/media/manasa.e2b9b384.jpg",
+    "static/media/mauthn.2074e2fd.png": "/static/media/mauthn.2074e2fd.png",
+    "static/media/neha.026980b9.jpg": "/static/media/neha.026980b9.jpg",
+    "static/media/sibisir.32963129.jpg": "/static/media/sibisir.32963129.jpg",
+    "static/media/startup.e180924e.png": "/static/media/startup.e180924e.png",
+    "static/media/tanush.cb5c230f.jpg": "/static/media/tanush.cb5c230f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.152d5861.js",
+    "static/js/2.8b6ab511.chunk.js",
+    "static/css/main.35c8e18e.chunk.css",
+    "static/js/main.7fdd5a8c.chunk.js"
+  ]
+}
