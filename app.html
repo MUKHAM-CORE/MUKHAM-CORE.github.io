@@ -3,18 +3,23 @@
 <script>
 var iplink='https://testflight.apple.com/join/mv2x7WC8'; //IPhone link
 var andlink='https://play.google.com/store/apps/details?id=com.face.mukham.mukham_app'; //Android link
-
+var lnk='';
 var c=window.navigator.userAgent.toLowerCase();
 if (c.includes('iphone'))
 {
-  window.open(iplink, '_blank');
-window.location.href=iplink;
+  lnk=iplink;
 }
 else
 {
-  window.open(andlink, '_blank');
-window.location.href=andlink;
-}
+  lnk=andlink;
+  }
+  popUp=window.open(lnk, '_blank');
+  if (popUp == null || typeof(popUp)=='undefined') {  
+    alert('You may allow popups to directly redirect to download page');
+    window.location=lnk;
+} 
+
+
 </script>
 <script type="text/javascript">(function(){window['__CF$cv$params']={r:'71c1db034e907cfe',m:'1sds98AnYPpf.OCTad40CHJzFTxWDfK1ee2BxMx6aNo-1655364787-0-Aau1roBDe9GvHIvqRtGOEEvxxoOVNAQwCIsqHbcuFPECVesfqENHihNJfUwmIY0ev97ViqbEeDmqMxjJSvjq4y0uQ02q1jB/lmPmNPwyo7rU7c+8KGgGBgPHA+UJz8UV1w==',s:[0x7a655ae4a4,0xcdc7254834],u:'/cdn-cgi/challenge-platform/h/g'}})();</script></body>
 </html>
